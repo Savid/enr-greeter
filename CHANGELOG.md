@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Savid/enr-greeter/compare/v1.0.1...v1.0.2) (2022-09-12)
+
+
+### Bug Fixes
+
+* **ci:** node gyp dep ([9331253](https://github.com/Savid/enr-greeter/commit/93312535cc2fd7596336f7208ab4518022e65276))
+
 ## [1.0.1](https://github.com/Savid/enr-greeter/compare/v1.0.0...v1.0.1) (2022-09-12)
 
 
